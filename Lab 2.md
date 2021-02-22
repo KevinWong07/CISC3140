@@ -13,4 +13,7 @@ Description: Most commonly used Internet browser throughout the world
    
 2. Incognito and Guest Mode
 
-   Incognito and Guest modes are two different ways the browser allows for Internet usage on public devices or in public environments 
+   Incognito and Guest modes are two different ways the browser allows for Internet usage on public devices or in public environments.  
+   Incognito mode in Chrome is a temporary browsing mode. It means that you don’t leave behind your history and cookies on the computer. The browsing history and cookies are deleted once you have closed the incognito mode. Contrary to popular belief, Incognito mode doesn't mean you are invisible to the Internet in general. Users also can not use this mode to hide their browsing information from employers. When a user uses Guest mode, they are using a temporary profile that is created for that single session. The user's history, passwords and settings are not saved onto the computer. This should not be seen as a form of protection however as this is only limited to the Internet browser and there may be keylogging programs installed on the computer system.  
+   ![img2](/Images/img2.PNG)  
+   ![img3](/Images/img3.PNG)
