@@ -1,0 +1,23 @@
+Script started on 2021-03-14 18:54:47-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="172" LINES="41"]
+]0;kevinwong@DESKTOP-SPVIRKK: ~/Lab5[01;32mkevinwong@DESKTOP-SPVIRKK[00m:[01;34m~/Lab5[00m$ exitwget https://spotifycharts.com/regional/global/daily/latest/download -O spotifycharts.csv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[58Pgrep download spotifycharts.txt[29@curl https://spotifycharts.com/regional -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kmv 'Lab 5' Lab5ls[Kmv Lab5 Lab\ 5ls[Kmv 'Lab 5' Lab5ls[Kmv 'Lab 5' Lab\ 5[1P 5ls[Kmv Lab5 'Lab 5'ls[Kmv 'Lab 5' Lab 5\ 5ls[Kmv 'Lab 5' Lab5ls[Kmv Lab5 Lab\ 5ls[Kmv 'Lab 5' Lab5exit[Kcurl https://spotifycharts.com/regional -o spotifycharts.txt
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  579k    0  579k    0     0   330k      0 --:--:--  0:00:01 --:--:--  330k
+]0;kevinwong@DESKTOP-SPVIRKK: ~/Lab5[01;32mkevinwong@DESKTOP-SPVIRKK[00m:[01;34m~/Lab5[00m$ curl https://spotifycharts.com/regional -o spotifycharts.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kwget https://spotifycharts.com/regional/global/daily/latest/download -O spotifycharts.csv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[58Pgrep download spotifycharts.txt[1P spotifycharts.txt[1P spotifycharts.txt[1P spotifycharts.txt[1P spotifycharts.txt[1P spotifycharts.txt[1P spotifycharts.txt[1P spotifycharts.txt[1P spotifycharts.txtC spotifycharts.txtS spotifycharts.txtV spotifycharts.txt
+                                        <a href=/regional/global/daily/latest/download class="header-csv" download="">Download to [01;31m[KCSV[m[K</a>
+]0;kevinwong@DESKTOP-SPVIRKK: ~/Lab5[01;32mkevinwong@DESKTOP-SPVIRKK[00m:[01;34m~/Lab5[00m$ grep CSV spotifycharts.txt[34@curl https://spotifycharts.com/regional -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kwget https://spotifycharts.com/regional/global/daily/latest/download -O spotifycharts.csv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[58Pgrep download spotifycharts.txtwget https://spotifycharts.com/regional/global/daily/latest/download -O spotifycharts.csv
+--2021-03-14 18:55:13--  https://spotifycharts.com/regional/global/daily/latest/download
+Resolving spotifycharts.com (spotifycharts.com)... 172.67.176.99, 104.21.72.74, 2606:4700:3033::ac43:b063, ...
+Connecting to spotifycharts.com (spotifycharts.com)|172.67.176.99|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/csv]
+Saving to: ‘spotifycharts.csv’
+
+spotifycharts.csv                              [<=>                                                                                      ]       0  --.-KB/s               spotifycharts.csv                              [ <=>                                                                                     ]  19.17K  --.-KB/s    in 0s      
+
+2021-03-14 18:55:14 (69.3 MB/s) - ‘spotifycharts.csv’ saved [19629]
+
+]0;kevinwong@DESKTOP-SPVIRKK: ~/Lab5[01;32mkevinwong@DESKTOP-SPVIRKK[00m:[01;34m~/Lab5[00m$ exit
+exit
+
+Script done on 2021-03-14 18:55:18-04:00 [COMMAND_EXIT_CODE="0"]
