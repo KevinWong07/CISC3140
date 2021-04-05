@@ -23,6 +23,7 @@ Mostly written in Markdown as practice for better documentation.
 - Given three example tasks, come up with own problems and steps to solve said problem. 
 - Practice using command line to arrive at solution.
 - Provide a log that shows what commands were used and why.
+- Write a program in shell script.
 
 ### Lab 6
 - Learn how version control systems are utilized in a professional setting.
