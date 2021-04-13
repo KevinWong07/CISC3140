@@ -1,0 +1,34 @@
+html, body { 
+    height: 100% 
+}
+
+html { 
+    display: table; 
+    margin: auto; 
+}
+
+body { 
+    background-color:#b6e497;
+    display: table-cell; 
+    vertical-align:middle; 
+}
+
+h1 { 
+    font-family: 'Lora', serif; font-size:30; 
+}
+
+h2 { 
+    font-family: 'Lora', serif; font-size:28; 
+}
+
+p { 
+    font-family: 'Open Sans', sans-serif; font-size:24; 
+}
+
+ul { 
+    font-family: 'Open Sans', sans-serif; font-size:24; 
+}
+
+.mask {
+    text-align: center;
+}
