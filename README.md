@@ -33,3 +33,10 @@ Mostly written in Markdown as practice for better documentation.
 - Learn basics of Scheme language and utilize Guile to create basic Scheme programs.
 - Understand the basic foundations of Scheme and how it is different from typical programming layouts.
 - Create a basic .scm file to do rudimentary tasks. ie: converting currency
+
+### Lab 8
+- Learn and understand how to implement JavaScript in a html environment. 
+- Understand how to create an external JavaScript file and access it from within a html page.
+- Create a simple program to mask phone number when entered.
+- Learn and use JavaScript regex in program to mask phone numbers on keypress.
+
